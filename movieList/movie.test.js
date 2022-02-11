@@ -1,3 +1,4 @@
+// setup
 const {Builder,Capabilities,By} = require('selenium-webdriver')
 require('chromedriver')
 
